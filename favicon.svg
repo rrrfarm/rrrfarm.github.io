@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-  <circle cx="64" cy="64" r="60" fill="#0c2333"/>
-  <text x="64" y="75" text-anchor="middle" font-size="40" font-weight="bold" fill="white" font-family="Arial, sans-serif">RRR</text>
-  <path d="M32 95 Q64 80 96 95" stroke="#8eaabd" stroke-width="4" fill="none"/>
-</svg>
