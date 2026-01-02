@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.rrrfarm.in/</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.rrrfarm.in/images/hero-1.avif</image:loc>
+      <image:title>RRR Farmstay - Main View</image:title>
+      <image:caption>Beautiful farmstay in Udumalpet near Pollachi, Tamil Nadu</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rrrfarm.in/logo.png</image:loc>
+      <image:title>RRR Farmstay Logo</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Section Anchors for better indexing -->
+  <url>
+    <loc>https://www.rrrfarm.in/#about</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.rrrfarm.in/#experiences</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rrrfarm.in/images/horse-riding.avif</image:loc>
+      <image:title>Horse Riding at RRR Farmstay</image:title>
+      <image:caption>Experience horse riding at our farmstay in Udumalpet</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rrrfarm.in/images/campfire.avif</image:loc>
+      <image:title>Campfire Experience at RRR Farmstay</image:title>
+      <image:caption>Enjoy campfire nights under the stars</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rrrfarm.in/images/rain-dance.avif</image:loc>
+      <image:title>Rain Dance at RRR Farmstay</image:title>
+      <image:caption>Fun rain dance activities for families</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rrrfarm.in/images/birdwatching.avif</image:loc>
+      <image:title>Bird Watching at RRR Farmstay</image:title>
+      <image:caption>Spot various bird species in natural habitat</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rrrfarm.in/images/farming.avif</image:loc>
+      <image:title>Organic Farming Experience</image:title>
+      <image:caption>Learn organic farming at RRR Farmstay</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://www.rrrfarm.in/#accommodations</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.rrrfarm.in/images/dormitory.avif</image:loc>
+      <image:title>Dormitory Accommodation</image:title>
+      <image:caption>Comfortable dormitory rooms at RRR Farmstay</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://www.rrrfarm.in/#gallery</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.rrrfarm.in/images/gallery-1.avif</image:loc>
+      <image:title>RRR Farmstay Gallery Image 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rrrfarm.in/images/gallery-2.avif</image:loc>
+      <image:title>RRR Farmstay Gallery Image 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rrrfarm.in/images/gallery-3.avif</image:loc>
+      <image:title>RRR Farmstay Gallery Image 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.rrrfarm.in/images/coconut-grove.avif</image:loc>
+      <image:title>Coconut Grove at RRR Farmstay</image:title>
+      <image:caption>Beautiful coconut grove for peaceful walks</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://www.rrrfarm.in/#contact</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+</urlset>
+
